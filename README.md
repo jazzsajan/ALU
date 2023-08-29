@@ -2,8 +2,8 @@
 
 To compile program:
 
-iverilog -o part1_test part1_test.v
+iverilog -o main main.v
 
 To run executable:
 
-vvp part1_test
+vvp main
